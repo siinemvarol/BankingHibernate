@@ -1,4 +1,4 @@
-package com.productms.utility;
+package com.banking.utility;
 
 import org.hibernate.Session;
 import org.hibernate.Transaction;

@@ -1,6 +1,7 @@
-package com.productms.utility;
+package com.banking.utility;
 
-import com.productms.entity.*;
+import com.banking.entity.Account;
+import com.banking.entity.User;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 public class HibernateUtility {
@@ -8,11 +9,9 @@ public class HibernateUtility {
     private static SessionFactory sessionFactoryHibernate() {
         try {
             Configuration configuration = new Configuration();
-            configuration.addAnnotatedClass(Admin.class);
-            configuration.addAnnotatedClass(Category.class);
-            configuration.addAnnotatedClass(Customer.class);
-            configuration.addAnnotatedClass(Product.class);
-            configuration.addAnnotatedClass(ProductDetail.class);
+
+            configuration.addAnnotatedClass(User.class);
+            configuration.addAnnotatedClass(Account.class);
 
             SessionFactory factory = configuration.configure("hibernate.cfg.xml").buildSessionFactory();
             return factory;

@@ -4,14 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7b1c59b-2a80-408a-9f9c-f172e41a4f73" name="Changes" comment="" />
+    <list default="true" id="e7b1c59b-2a80-408a-9f9c-f172e41a4f73" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/app/BAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/app/BAUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/app/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/app/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/repository/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/repository/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/utility/HibernateUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/utility/HibernateUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/utility/ICrud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/utility/ICrud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/utility/IMyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/utility/IMyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/utility/MyFactoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/utility/MyFactoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/banking/utility/MyFactoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/banking/utility/MyFactoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,10 +60,45 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/BOOST_JAVA_8_PRATIK/intellij/BankingHibernate/src/main/java/com/banking/utility",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\BOOST_JAVA_8_PRATIK\intellij\BankingHibernate\src\main\java\com\banking\utility" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banking.Main" />
+      <module name="BankingHibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +107,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682928575856</updated>
+      <workItem from="1682928577056" duration="11719000" />
+      <workItem from="1682948520585" duration="2397000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
